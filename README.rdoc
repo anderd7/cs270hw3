@@ -1,3 +1,11 @@
+David Anderson, CS 270, Assignment 3
+
+Description: Create models and database migrations necessary to form the core of the application.
+
+Input: N/A
+
+Output: N/A
+
 == CS 270 Assignment 3
 
 In this assignment, you'll create the models and database migrations 
